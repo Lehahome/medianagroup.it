@@ -1,0 +1,275 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://medianagroup.ru" resolutions="1x" timestamp="1573644544869">
+  <folder name="css">
+    <file name="site_global.css" crc="4092706333"/>
+    <file name="master_home-page-master.css" crc="411318204" ref="index"/>
+    <file name="master_page-master-p.css" crc="464034182" ref="veralact-5m:virilis:magic-staff-ladies:zinal-pro:zinal-pro-syrup:melasol:shok-in"/>
+    <file name="master_page-master.css" crc="43363954" ref="наши-партнеры:контакты:вакансии:исследования:производство:magic-staff:о-компании"/>
+    <file name="____-________.css" crc="486933896" ref="наши-партнеры"/>
+    <file name="iefonts_____-________.css" crc="4030054395" ref="наши-партнеры"/>
+    <file name="veralact-5m.css" crc="507027834" ref="veralact-5m"/>
+    <file name="iefonts_veralact-5m.css" crc="4249714808" ref="veralact-5m"/>
+    <file name="virilis.css" crc="4225160115" ref="virilis"/>
+    <file name="iefonts_virilis.css" crc="4083624576" ref="virilis"/>
+    <file name="________1.css" crc="89797132" ref="контакты"/>
+    <file name="iefonts_________1.css" crc="4134755159" ref="контакты"/>
+    <file name="magic-staff-ladies.css" crc="372587553" ref="magic-staff-ladies"/>
+    <file name="iefonts_magic-staff-ladies.css" crc="67215324" ref="magic-staff-ladies"/>
+    <file name="zinal-pro.css" crc="34637968" ref="zinal-pro"/>
+    <file name="iefonts_zinal-pro.css" crc="4111310744" ref="zinal-pro"/>
+    <file name="________.css" crc="484422197" ref="вакансии"/>
+    <file name="iefonts_________.css" crc="3810787780" ref="вакансии"/>
+    <file name="____________.css" crc="3932418175" ref="исследования"/>
+    <file name="iefonts_____________.css" crc="3779954537" ref="исследования"/>
+    <file name="zinal-pro-syrup.css" crc="4258516695" ref="zinal-pro-syrup"/>
+    <file name="iefonts_zinal-pro-syrup.css" crc="3992948468" ref="zinal-pro-syrup"/>
+    <file name="____________1.css" crc="512286502" ref="производство"/>
+    <file name="iefonts_____________1.css" crc="490943613" ref="производство"/>
+    <file name="index.css" crc="4125198694" ref="index"/>
+    <file name="iefonts_index.css" crc="83933891" ref="index"/>
+    <file name="melasol.css" crc="3761065569" ref="melasol"/>
+    <file name="iefonts_melasol.css" crc="4007305581" ref="melasol"/>
+    <file name="magic-staff.css" crc="184160951" ref="magic-staff"/>
+    <file name="iefonts_magic-staff.css" crc="3987729480" ref="magic-staff"/>
+    <file name="shok-in.css" crc="3916918823" ref="shok-in"/>
+    <file name="iefonts_shok-in.css" crc="323093297" ref="shok-in"/>
+    <file name="_-________.css" crc="3838464372" ref="о-компании"/>
+    <file name="iefonts__-________.css" crc="4214834113" ref="о-компании"/>
+  </folder>
+  <folder name="assets">
+    <file name="medical-company-report.pdf" crc="4138271806" seo="true" mt="1391405660000"/>
+    <file name="iphone_icon.png" crc="349976945" seo="true" mt="1391407162000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="о-компании:контакты:наши-партнеры:исследования:index:вакансии:производство:magic-staff:magic-staff-ladies:zinal-pro:zinal-pro-syrup:melasol:shok-in:veralact-5m:virilis"/>
+    <file name="museutils.js" crc="340535759" ref="о-компании:контакты:наши-партнеры:исследования:index:вакансии:производство:magic-staff:magic-staff-ladies:zinal-pro:zinal-pro-syrup:melasol:shok-in:veralact-5m:virilis"/>
+    <file name="whatinput.js" crc="86476730" ref="о-компании:контакты:наши-партнеры:исследования:index:вакансии:производство:magic-staff:magic-staff-ladies:zinal-pro:zinal-pro-syrup:melasol:shok-in:veralact-5m:virilis"/>
+    <file name="museconfig.js" crc="4286661555" ref="о-компании:контакты:наши-партнеры:исследования:index:вакансии:производство:magic-staff:magic-staff-ladies:zinal-pro:zinal-pro-syrup:melasol:shok-in:veralact-5m:virilis"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="о-компании:контакты:наши-партнеры:исследования:index:производство:magic-staff:magic-staff-ladies:zinal-pro:zinal-pro-syrup:melasol:shok-in:veralact-5m:virilis"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="о-компании:контакты:наши-партнеры:исследования:index:вакансии:производство:magic-staff:magic-staff-ladies:zinal-pro:zinal-pro-syrup:melasol:shok-in:veralact-5m:virilis"/>
+    <file name="jquery.watch.js" crc="51536988" ref="о-компании:контакты:наши-партнеры:исследования:index:вакансии:производство:magic-staff:magic-staff-ladies:zinal-pro:zinal-pro-syrup:melasol:shok-in:veralact-5m:virilis"/>
+    <file name="html5shiv.js" crc="4241844378" ref="о-компании:контакты:наши-партнеры:исследования:index:вакансии:производство:magic-staff:magic-staff-ladies:zinal-pro:zinal-pro-syrup:melasol:shok-in:veralact-5m:virilis"/>
+    <file name="require.js" crc="7928878" ref="о-компании:контакты:наши-партнеры:исследования:index:вакансии:производство:magic-staff:magic-staff-ladies:zinal-pro:zinal-pro-syrup:melasol:shok-in:veralact-5m:virilis"/>
+    <file name="webpro.js" crc="4059564322" ref="контакты:index"/>
+    <file name="form_check.php" crc="4020933626" ref="контакты"/>
+    <file name="form_throttle.php" crc="4259590256" ref="контакты"/>
+    <file name="form_process.php" crc="37464564" ref="контакты"/>
+    <file name="form-u24813.php" crc="59643969" ref="контакты"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="page-master-favicon.ico" crc="4052348993" ref="о-компании"/>
+    <file name="mediana logo wt.png" crc="305927597" ref="о-компании:index:magic-staff-ladies">
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="magic-staff-ladies" alt=""/>
+      <caption webpage="magic-staff-ladies" alt=""/>
+    </file>
+    <file name="italy flag.png" crc="502712539" ref="о-компании:index:magic-staff-ladies">
+      <caption webpage="о-компании" alt=""/>
+    </file>
+    <file name="_david.jpg" crc="189206678" ref="о-компании">
+      <caption webpage="о-компании" alt=""/>
+    </file>
+    <file name="partners gray.jpg" crc="54316713" ref="о-компании">
+      <caption webpage="о-компании" alt=""/>
+    </file>
+    <file name="medical symbol.png" crc="3785384702" ref="о-компании:index:magic-staff-ladies">
+      <caption webpage="о-компании" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="magic-staff-ladies" alt=""/>
+    </file>
+    <file name="maxresdefault (1).jpg" crc="4183614925" ref="контакты">
+      <caption webpage="контакты" alt=""/>
+    </file>
+    <file name="наши-партнеры-favicon.ico" crc="4052348993" ref="наши-партнеры"/>
+    <file name="_facciata_duomo_di_napoli.jpg" crc="3938110865" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="katren.png" crc="4235551456" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="front-z-400.png" crc="3982037497" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="gqwfnefeigk.png" crc="4152171763" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="apteka366-logo-2x-square.png" crc="3902994471" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="rigla.png" crc="4059806477" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="logo.png" crc="4196675706" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="001.png" crc="3902433743" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="а5-аптека-логотип.png" crc="506847104" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="melody.png" crc="185977661" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="azbuka_vkusasvg.png" crc="501782337" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="x5.png" crc="4074801726" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="“перекресток”.png" crc="3786979258" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="aptekaru.png" crc="46861002" ref="наши-партнеры">
+      <caption webpage="наши-партнеры" alt=""/>
+    </file>
+    <file name="исследования-favicon.ico" crc="4052348993" ref="исследования"/>
+    <file name="milan.png" crc="3769703331" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="bolog.png" crc="339459379" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="paar.png" crc="3888187140" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="niir.jpg" crc="3822868530" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="pisa.png" crc="4215558938" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="sechenov.png" crc="493116796" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="endocrin.jpg" crc="4269193877" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="12.jpg" crc="4060942183" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="10.jpg" crc="4161923864" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="04a.jpg" crc="4195113469" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="16.jpg" crc="407541838" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="13.jpg" crc="4072506200" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="07.jpg" crc="3996296660" ref="исследования">
+      <caption webpage="исследования" alt=""/>
+    </file>
+    <file name="главная-favicon.ico" crc="4052348993" ref="index"/>
+    <file name="start page background2.jpg" crc="3997379118" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="start page background1a.jpg" crc="4154584746" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="start page background3b.jpg" crc="452513227" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="start page background34.jpg" crc="4195431643" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="start page background5.jpg" crc="325756788" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="start page background445.jpg" crc="3767701544" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="start page background7.jpg" crc="382555147" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="start page backgroundvvvvv.jpg" crc="4129414763" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_sofia_loren_nel_film__ieri_oggi_domani___ansa_.jpg" crc="4285869626" ref="вакансии">
+      <caption webpage="вакансии" alt=""/>
+    </file>
+    <file name="производство-favicon.ico" crc="4052348993" ref="производство"/>
+    <file name="01.jpg" crc="3826329453" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="04.jpg" crc="4276349114" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="02.jpg" crc="4166829443" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="05.jpg" crc="44669485" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="03.jpg" crc="512231358" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="06.jpg" crc="291281260" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="09-u25026-fr.png" crc="3962408502" ref="производство"/>
+    <file name="012.jpg" crc="4190571918" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="15.jpg" crc="8836121" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="08.jpg" crc="125845084" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="022.jpg" crc="4161694536" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="14.jpg" crc="3772329310" ref="производство">
+      <caption webpage="производство" alt=""/>
+    </file>
+    <file name="ms.jpg" crc="3901199841" ref="magic-staff">
+      <caption webpage="magic-staff" alt=""/>
+    </file>
+    <file name="page-master-p-favicon.ico" crc="4052348993" ref="magic-staff-ladies"/>
+    <file name="msl.jpg" crc="301106546" ref="magic-staff-ladies">
+      <caption webpage="magic-staff-ladies" alt=""/>
+    </file>
+    <file name="zinal new.jpg" crc="508121766" ref="zinal-pro">
+      <caption webpage="zinal-pro" alt=""/>
+    </file>
+    <file name="zinal nectar.jpg" crc="3772945039" ref="zinal-pro-syrup">
+      <caption webpage="zinal-pro-syrup" alt=""/>
+    </file>
+    <file name="melazol.jpg" crc="3876062136" ref="melasol">
+      <caption webpage="melasol" alt=""/>
+    </file>
+    <file name="shok in.jpg" crc="4000669315" ref="shok-in">
+      <caption webpage="shok-in" alt=""/>
+    </file>
+    <file name="veralact.jpg" crc="4084403570" ref="veralact-5m">
+      <caption webpage="veralact-5m" alt=""/>
+    </file>
+    <file name="virilis.jpg" crc="4018078141" ref="virilis">
+      <caption webpage="virilis" alt=""/>
+    </file>
+  </folder>
+  <file name="about.html" crc="4041775877" seo="true" mt="1573642124287" redirect="true"/>
+  <file name="contacts.html" crc="4051866637" seo="true" mt="1573642124287" redirect="true"/>
+  <file name="partners.html" crc="3994106979" seo="true" mt="1573642124287" redirect="true"/>
+  <file name="research.html" crc="293092973" seo="true" mt="1573642124287" redirect="true"/>
+  <file name="index.html" crc="36597751" seo="true" mt="1573493112659" redirect="true"/>
+  <file name="vacancy.html" crc="3764023479" seo="true" mt="1573642124287" redirect="true"/>
+  <file name="production.html" crc="335807914" seo="true" mt="1573642124287" redirect="true"/>
+  <file name="magic-staff.html" crc="396579529" seo="true" mt="1573644500153" redirect="true"/>
+  <file name="magic-staff-ladies.html" crc="111668053" seo="true" mt="1573644485991" redirect="true"/>
+  <file name="zinal-pro.html" crc="4228363480" seo="true" mt="1573643171160" redirect="true"/>
+  <file name="zinal-pro-syrup.html" crc="4042731336" seo="true" mt="1573492728577" redirect="true"/>
+  <file name="melasol.html" crc="11994708" seo="true" mt="1573643370450" redirect="true"/>
+  <file name="shok-in.html" crc="3796960236" seo="true" mt="1573644460133" redirect="true"/>
+  <file name="veralact-5m.html" crc="492873449" seo="true" mt="1573643779438" redirect="true"/>
+  <file name="virilis.html" crc="3966322766" seo="true" mt="1573644376434" redirect="true"/>
+</manifest>

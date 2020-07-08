@@ -1,0 +1,69 @@
+<ifModule mod_headers.c>
+Header set X-XSS-Protection "1; mode=block"
+</IfModule>
+
+
+
+<IfModule mod_rewrite.c>
+ 
+  RewriteEngine on
+
+  # If your site can be accessed both with and without the 'www.' prefix, you
+  # can use one of the following settings to redirect users to your preferred
+  # URL, either WITH or WITHOUT the 'www.' prefix. Choose ONLY one option:
+  #
+  # To redirect all users to access the site WITH the 'www.' prefix,
+  # (http://example.com/... will be redirected to http://www.example.com/...)
+  # adapt and uncomment the following:
+  # RewriteCond %{HTTP_HOST} ^example\.com$ [NC]
+  # RewriteRule ^(.*)$ http://www.example.com/$1 [L,R=301]
+  #
+  # To redirect all users to access the site WITHOUT the 'www.' prefix,
+  # (http://www.example.com/... will be redirected to http://example.com/...)
+  # uncomment and adapt the following:
+  # RewriteCond %{HTTP_HOST} ^www\.example\.com$ [NC]
+  # RewriteRule ^(.*)$ http://example.com/$1 [L,R=301]
+
+  # Modify the RewriteBase if you are using Drupal in a subdirectory or in a
+  # VirtualDocumentRoot and the rewrite rules are not working properly.
+  # For example if your site is at http://example.com/drupal uncomment and
+  # modify the following line:
+  # RewriteBase /new_taximer.ru
+  #
+  # If your site is running in a VirtualDocumentRoot at http://example.com/,
+  # uncomment the following line:
+  # RewriteBase /
+
+  # Rewrite URLs of the form 'x' to the form 'index.php?q=x'.
+  #RewriteCond %{REQUEST_FILENAME} !-f
+  #RewriteCond %{REQUEST_FILENAME} !-d
+  #RewriteCond %{REQUEST_URI} !=/favicon.ico
+  #RewriteRule ^(.*)$ index.php?q=$1 [L,QSA]
+</IfModule>
+
+# пляски с кодировкой #
+#http://httpd.apache.org/docs/2.0/mod/core.html#adddefaultcharset
+AddDefaultCharset utf-8
+#http://httpd.apache.org/docs/2.0/mod/mod_mime.html#addcharset
+AddCharset utf-8 *
+<IfModule mod_charset.c>
+CharsetSourceEnc utf-8
+CharsetDefault utf-8
+</IfModule>
+DirectoryIndex index.php
+
+php_value upload_tmp_dir /tmp
+
+php_value   max_input_vars   10000
+
+Options +FollowSymLinks
+
+
+RewriteCond %{HTTP_HOST} ^www.medianagroup.it(.*) [NC]
+RewriteRule ^(.*)$ http://medianagroup.it/$1 [R=301,L]
+
+ 
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} !=/favicon.ico
+RewriteRule ^(.*)$ index.php?&q=$1 [L,QSA]
