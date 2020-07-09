@@ -161,13 +161,13 @@ body
 
 a:link
 {
-    color: #d4d675;
+    color: #fff;
     text-decoration: none;
 }
 
 a:visited
 {
-    color: #d4d675;
+    color: #fff;
     text-decoration: none;
 }
 
@@ -185,7 +185,7 @@ a:active
 
 a.nontext
 {
-    color: black;
+    color: wite;
     text-decoration: none;
     font-style: normal;
     font-weight: normal;
@@ -1092,7 +1092,7 @@ span.actAsPara
     text-align: left;
     color: white;
     background: #002C48;
-    left: 10000;
+    left: 10000px;
     right: 0;
     height: 87px;
     z-index: 216;
