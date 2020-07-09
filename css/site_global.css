@@ -1090,7 +1090,7 @@ span.actAsPara
     top: 0;
     text-decoration: none;
     text-align: left;
-    color: #fffffe;
+    color: white;
     background: #002C48;
     left: 10000;
     right: 0;
@@ -1250,7 +1250,7 @@ span.actAsPara
     font-size: 32px;
     text-decoration: none;
     text-align: center;
-    color:#fffffe;
+    color:white;
     font-family: open-sans, sans-serif;
     font-weight: 400;
 }
